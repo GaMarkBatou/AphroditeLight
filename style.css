@@ -376,11 +376,9 @@ div.btnimgdiv{
 }
 /* Notebook vision */
 
-/* itt lakoznak a sarkanyok,  ha ezt a reszt aktivalod + 10es prodt es +3% quality ad! */
-/* https://i.giphy.com/l3nWhI38IWDofyDrW.webp */
 #FormContainer{
 	/*background-color: #ffffff!important;*/
-	background-image: url("https://i.giphy.com/l3nWhI38IWDofyDrW.webp")!important; /* ide kell a link helyere a kepet betenni */
+	background-image: url("https://raw.githubusercontent.com/GaMarkBatou/AphroditeLight/refs/heads/main/scm.png")!important; 
 	background-repeat: no-repeat;
 	/*background-attachment: fixed;*/
 	background-position: right bottom;
